@@ -13,3 +13,6 @@ This repository contains a Python implementation of a word cloud generator, a po
 - Python
 - NLTK (Natural Language Toolkit)
 - Matplotlib
+
+**_Objective:_**
+The main objective of this project is to enhance skills in text processing, data visualization, and Python programming. By overcoming challenges related to text cleaning and data visualization, this project aims to create visually impactful representations of textual data.
