@@ -21,10 +21,10 @@ The main objective of this project is to enhance skills in text processing, data
 - NLTK (Natural Language Toolkit)
 - Matplotlib
 
-**Conclusion:**
+**_Conclusion:_**
 
 The word cloud map generator software presents a pivotal advancement in extracting insights from extensive textual datasets. With its foundation in Python and innovative algorithms, the software dynamically adjusts font sizes, enhancing readability and visual aesthetics. This achievement marks a significant stride toward facilitating comprehensive text analysis and interpretation.
 
-**Future Enhancements:**
+**_Future Enhancements:_**
 
 To further elevate its capabilities, future enhancements could focus on refining algorithms to bolster performance and efficiency. Integrating cutting-edge text analysis methodologies will enable deeper insights extraction, enhancing the software's analytical prowess. Moreover, incorporating user-centric feedback mechanisms will ensure continual improvements in usability and functionality, ensuring its relevance and effectiveness in diverse text mining endeavors.
